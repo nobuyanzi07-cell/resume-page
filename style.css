@@ -39,5 +39,29 @@ main {
 
 section {
     margin-bottom: 28px;
-    
 }
+
+h2 {
+    font-size:11px;
+    letter-spacing: 3px;
+    text-transform:uppercase;
+    color:#c9922a;
+    border-bottom:1px tranlucent #1a3a2a;
+    padding-bottom: 5px;
+    margin-bottom:14px;
+}
+
+p {
+    color:#444;
+}
+
+ul {
+    padding-left:18px;
+    color: #444;
+}
+
+ul li {
+    margin-bottom: 16px;
+}
+
+/*entry*/
