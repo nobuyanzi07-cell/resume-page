@@ -52,7 +52,7 @@ h2 {
 }
 
 p {
-    color:#444;
+    color:#19e30e;
 }
 
 ul {
@@ -65,3 +65,24 @@ ul li {
 }
 
 /*entry*/
+
+.entry {
+    margin-bottom: 16px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-bottom: 6px;
+    font-size: 14px;
+    color: #1a3a2a;
+}
+
+.row span {
+    color:brown;
+    font-size: 12px;
+}
+
+/
