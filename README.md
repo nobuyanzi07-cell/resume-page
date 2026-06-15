@@ -1,2 +1,2 @@
 # resume-page
-a mock resume for jane mwangi
+a mock resume for bailey
