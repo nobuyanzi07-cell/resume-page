@@ -85,4 +85,10 @@ ul li {
     font-size: 12px;
 }
 
-/
+/*responsive*/
+
+@media (max-width: 600px) {
+    header, main { padding: 24px 20px; }
+    main { margin: 16px; }
+    .row { flex-direction: column; }
+}
