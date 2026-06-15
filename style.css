@@ -24,3 +24,20 @@ header p {
     color: rgba(255,255,255.0.7);
     font-size: 13px;
 }
+
+/*main*/
+
+main {
+    max-width: 800px;
+    margin: 28px auto;
+    background:#fff;
+    padding:36px 40 px;
+    border-top:4px solid #614e4e;
+}
+
+/*section*/
+
+section {
+    margin-bottom: 28px;
+    
+}
